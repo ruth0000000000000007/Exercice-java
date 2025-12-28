@@ -22,7 +22,7 @@ public class jeuAléatoire {
 
         System.out.println("Le nombre auquel je pensais était " + nombreAleatoire);
 
-        System.out.println("Vous étiez à " + difference + " de la bonne réponse.");
+        System.out.println("Vous êtes à " + difference + " de la bonne réponse.");
 
     }
 
